@@ -18,5 +18,5 @@ Owen.weight_grams = 3786
 Owen.length_cm = 51
 Owen.cute = True
 
-Owen.hug()
-
+while True:
+    Owen.hug()
